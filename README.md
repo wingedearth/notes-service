@@ -20,7 +20,7 @@ Ownership is enforced via a required `userId` field (create body) and query para
 
 ## Prerequisites
 
-- Python 3.12+
+- Python 3.12+ (Heroku uses `.python-version` → `3.12`)
 - A MongoDB Atlas (or local) connection string
 
 ## Setup
